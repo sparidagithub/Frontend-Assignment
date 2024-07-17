@@ -337,7 +337,10 @@ main {
 
     ul {
         width: 75%;
-        font-size: 25px;
+        font-size: 22px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
     .top {
